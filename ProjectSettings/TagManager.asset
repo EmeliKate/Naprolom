@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TextCanvasPrefab
+  - TextBubble
+  - Bubble
+  - ThoughtText
+  - SvetalanaSittting
+  - SvetlanaStanding
+  - SvetlanaSitting
+  - SvetlanaWalking0
+  - SvetlanaWalking1
+  - Boss
+  - CMObject
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Glasses
+  - Water
+  - UI
+  - UI1
+  - UI2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: LayerFront
+    uniqueID: 914545211
+    locked: 0
